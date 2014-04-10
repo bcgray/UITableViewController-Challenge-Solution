@@ -1,5 +1,5 @@
 //
-//  ANViewController.h
+//  ANTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Barry Gray on 4/9/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ANViewController : UIViewController
+@interface ANTableViewController : UITableViewController
 
 @end
